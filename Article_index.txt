@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Onam - A Cultural Heritage</title>
+  </head>
+  <body style="background-color: beige;">
+    <h1><i>Onam Ashamsakal</i></h1>
+    
+    <img src="onam_banner.jpg" width="100%" height="100%" alt="Onam greetings" />
+    <p>
+      <strong>Onam is a traditional Hindu festival celebrated in the Indian state of
+      Kerala.<br>It is one of the most significant and widely observed festivals in
+      the region. <br> </strong>
+    </p>  
+      
+    <p>Onam typically falls in the Malayalam month of Chingam, which
+        corresponds to August-September in the Gregorian calendar. <br>The festival
+        marks the harvest season and is a time of joyful celebrations, cultural
+        events, and traditional rituals.
+    </p>
+    <img src="onam_bg.png" alt="Onam Food - A Special spread">
+  </body>
+</html>
